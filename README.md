@@ -40,7 +40,7 @@ This repository contains the simulation code and experimental data accompanying 
 ```bash
 git clone https://github.com/hariKRN2000/Gain-Scheduled-Disturbance-Rejection-Controllers-LEMOS.git
 cd Gain-Scheduled-Disturbance-Rejection-Controllers-LEMOS
-pip install numpy scipy pandas lmfit matplotlib jupyter
+pip install numpy scipy pandas lmfit matplotlib 
 ```
 
 Then launch Jupyter and run any of the `.ipynb` notebooks.
